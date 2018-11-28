@@ -1,0 +1,31 @@
+Token name: IAST
+
+Token ticker: IST
+
+Token decimals: 18
+
+Multisig wallet address: 0xb12C0CFbF67207d1f33eF49CB95226450B1cF0b5
+
+*****************************
+
+Crowdsale rate: 30000
+
+Crowdsale start time: 2018-10-10T21:15 (GMT + 5.5)
+
+Crowdsale end time: 2018-12-14T00:00 (GMT + 5.5)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+SafeMathLib library name: SafeMathLibExt
+
+SafeMathLib library address: 0x4bb1e3EE6C1AF32a54643610e2E348415C4D2543
+
+*****************************
+
+****SafeMathLib contract ABI:**** 
+
+[{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"times","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"plus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"divides","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"minus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"}]
